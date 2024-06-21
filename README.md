@@ -1,7 +1,9 @@
 # Bulk-IP-Address-Details-Generator-
 Ensure Required Libraries Are Installed:
 pip install ipwhois pandas
+
 Place input_ips.csv and the Script in the Same Directory.
+
 Run the Script:
 python whois_lookup.py
 
